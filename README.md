@@ -1,0 +1,1 @@
+# Lab-42-Factory-Method-Design-Pattern
